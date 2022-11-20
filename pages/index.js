@@ -17,7 +17,6 @@ export default function Home() {
 		}))
 	}
 
-	// handle submit
 	const onSubmitForm = async (e) => {
 		e.preventDefault()
 
